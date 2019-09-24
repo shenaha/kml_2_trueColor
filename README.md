@@ -1,4 +1,5 @@
 ## Sentinel 2
+A binder consisting of the above code.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fshenaha%2Fkml_to_sen2/master)
 
 ## About binder
@@ -8,6 +9,7 @@
 
 Binder is a tool that lets other people easily launch an interactive copy of your Jupyter notebooks. This repository contains the documentation and usage instructions for the mybinder.org service.
 
+## WorkFlow
 
 * Input : .kml
 * Convert KML to GeoJSON
