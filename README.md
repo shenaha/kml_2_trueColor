@@ -1,12 +1,12 @@
 ## Sentinel 2
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fshenaha%2Fkml_to_sen2/master)
 
-# binder
+## About binder
 
 [![Documentation Status](https://readthedocs.org/projects/mybinder/badge/?version=latest)](https://mybinder.readthedocs.io/en/latest/?badge=latest)
 [![Join the chat at https://gitter.im/jupyterhub/binder](https://badges.gitter.im/jupyterhub/binder.svg)](https://gitter.im/jupyterhub/binder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This repository contains the documentation and usage instructions for the mybinder.org service.
+Binder is a tool that lets other people easily launch an interactive copy of your Jupyter notebooks. This repository contains the documentation and usage instructions for the mybinder.org service.
 
 
 * Input : .kml
