@@ -1,6 +1,15 @@
 ## Sentinel 2
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fshenaha%2Fkml_to_sen2/master)
 
+.. image:: https://travis-ci.org/jupyterhub/binderhub.svg?branch=master
+   :target: https://travis-ci.org/jupyterhub/binderhub
+   :alt: travis status
+
+.. image:: https://readthedocs.org/projects/binderhub/badge/?version=latest
+   :target: https://binderhub.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
+
 * Input : .kml
 * Convert KML to GeoJSON
 * Download sentinel-2 images with GeoJSON
@@ -10,7 +19,7 @@
 * Future : (NDWI , NDVI etc or band calculation code snippet can be added)
 
 
-## References:
+## References
 1. stackoverflow
 2. gis.stackexchange
 3. sentinelsat – using Python to search and download Sentinel 2 data - http://www.acgeospatial.co.uk/sentinelsat_demo/
